@@ -1,2 +1,3 @@
-# win-terminal-settings
-Windows Terminal json setup with custom initial projects path, opacity and colors, just for sharing.
+# My Windows Terminal Settings
+
+💻 No biggie here, just to version and share my terminal windows settings. Setting home path of my projects folder, background colors and opacity.
